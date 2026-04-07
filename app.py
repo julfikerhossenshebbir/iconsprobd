@@ -13,6 +13,7 @@ ICON_FILE = 'icons.json'
 RATE_LIMIT_PER_MINUTE = 300
 ALLOWED_ORIGINS = [
     'https://icons.mdjhs.com',
+    'https://icons.pro.bd',
     'https://icons.microstock.store',
     'http://localhost',
     'http://127.0.0.1',
