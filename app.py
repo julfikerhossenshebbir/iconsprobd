@@ -8,7 +8,7 @@ from flask import Flask, request, jsonify, make_response, render_template_string
 
 app = Flask(__name__)
 
-# ── Configuration & Data ───────────────────────────────────────
+# ── Configuration & Data ──
 ICON_FILE = 'icons.json'
 RATE_LIMIT_PER_MINUTE = 300
 ALLOWED_ORIGINS = [
